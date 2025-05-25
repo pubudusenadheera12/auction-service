@@ -7,4 +7,4 @@
 * Bundler based on the serverless-webpack plugin - requires zero configuration and fully compatible with ES6/ES7 features.
 
 
-You are ready to go!
+Ready to go!!!!
